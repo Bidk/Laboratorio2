@@ -13,7 +13,7 @@ public class Principal {
     int a2=21;
     
     
-    result= a1 + a2;
+    result= a1 + v2;
     
     
        
