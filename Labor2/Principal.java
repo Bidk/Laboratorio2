@@ -8,12 +8,12 @@ public class Principal {
 	 */
 	public static void main(String arg[])
     {
-    int r;
+    int result;
     int a1=10;
-    int a2=21;
+    int a2=20;
     
     
-    r= a1 + a2;
+    result= a1 + a2;
     
     
        
