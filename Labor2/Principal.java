@@ -8,7 +8,7 @@ public class Principal {
 	 */
 	public static void main(String arg[])
     {
-    int result=0;
+    int r=0;
     int a1=10;
     int a2=21;
     
@@ -17,7 +17,7 @@ public class Principal {
     
     
        
-       System.out.println("La suma de 10 + 20 es: " + result );
+       System.out.println("La suma de 10 + 20 es: " + r );
    
     }
 	
