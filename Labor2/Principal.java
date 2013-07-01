@@ -1,4 +1,4 @@
-import java.io.*;
+
 
 
 public class Principal {
@@ -19,7 +19,6 @@ public class Principal {
        System.out.println("La suma de 10 + 20 es: " + result);
    
     }
-	
 	
 
 }
