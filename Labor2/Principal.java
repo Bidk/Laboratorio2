@@ -9,14 +9,15 @@ public class Principal {
 	public static void main(String arg[])
     {
     int result;
-    int n1=10;
-    int n2=20;
+    int a1=10;
+    int a2=21;
     
     
-    result= n1 + n2;
+    result= a1 + a2;
     
     
-       System.out.println("La suma de 10 + 20 es: " + result);
+       
+       System.out.println("La suma de 10 + 20 es: " + result );
    
     }
 	
