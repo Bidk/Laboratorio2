@@ -8,7 +8,7 @@ public class Principal {
 	 */
 	public static void main(String arg[])
     {
-    int result;
+    int result=0;
     int a1=10;
     int a2=21;
     
