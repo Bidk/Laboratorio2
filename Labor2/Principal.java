@@ -8,16 +8,16 @@ public class Principal {
 	 */
 	public static void main(String arg[])
     {
-    int r=0;
+    int r;
     int a1=10;
     int a2=21;
     
     
-    result= a1 + v2;
+    r= a1 + a2;
     
     
        
-       System.out.println("La suma de 10 + 20 es: " + r );
+       System.out.println("La suma de 10 + 20 es: " + result );
    
     }
 	
